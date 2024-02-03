@@ -1,1 +1,3 @@
 # wavecast
+
+Aprendendo sobre GRID
